@@ -1,5 +1,4 @@
 require 'features_helper'
-require 'minitest'
 
 describe 'Visit home' do
 
